@@ -1,0 +1,51 @@
+==================================================
+AppLab - App Landing Page Template
+==================================================
+
+Author: AchrafOc
+Website: www.themeforest.net/user/achrafoc
+License: This template is licensed under the ThemeForest Regular or Extended License, based on your purchase.
+==================================================
+
+This item is licensed under the ThemeForest Standard License.
+You can use it for a single end product, which end users are not charged for.
+
+--------------------------------------------------
+Files Included:
+--------------------------------------------------
+- HTML, CSS, JS, image, and font files used in the template
+- Documentation (Applab Documentation.html)
+
+--------------------------------------------------
+External Assets and Libraries Used:
+--------------------------------------------------
+
+1. Bootstrap (MIT License)
+https://getbootstrap.com
+
+2. FontAwesome (CC BY 4.0 License)
+https://fontawesome.com
+
+3. Popper.js (MIT License)
+https://popper.js.org
+
+4. Google Fonts (Open Font License)
+https://fonts.google.com
+
+5. Unsplash (Images for demo purposes only)
+https://unsplash.com
+
+--------------------------------------------------
+Important:
+--------------------------------------------------
+- All external resources are freely available and properly licensed.
+- Images used in the demo are for preview only and must be replaced in your production site.
+- Please read the ThemeForest license agreement for more details:
+  https://themeforest.net/licenses
+
+--------------------------------------------------
+Support:
+--------------------------------------------------
+For support or questions, contact me via my ThemeForest profile(www.themeforest.net/user/achrafoc).
+
+==================================================
